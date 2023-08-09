@@ -3,5 +3,3 @@
 ddfff
 สวัสดี 
 5678
-Name
--Sivakorn Sirinaphaphan
